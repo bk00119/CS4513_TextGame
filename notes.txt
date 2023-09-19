@@ -1,0 +1,4 @@
+"No module found" --> PYTHONPATH issue
+export PYTHONPATH=$PYTHONPATH:$(pwd)
+
+"No directory found" --> PATH issue
