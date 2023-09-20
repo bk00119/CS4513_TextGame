@@ -17,3 +17,4 @@ dev_env: FORCE
 
 docs: FORCE
 	cd $(TEXT_DIR); make docs
+
